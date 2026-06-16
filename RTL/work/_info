@@ -1,0 +1,553 @@
+m255
+K4
+z2
+!s99 nomlopt
+!s11f vlog 2021.1 2021.01, Jan 19 2021
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dF:/Studying/College/College-content/FPGA/projects/Learning Verilog/try_2/RTL
+T_opt
+!s110 1779798751
+V2YQT>@iPZXCXTAAE4j6JC3
+04 9 4 work testbench fast 0
+=1-7c214add2e44-6a1592df-c8-1634
+!s124 OEM100
+o-quiet -auto_acc_if_foreign -work work +acc
+Z1 tCvgOpt 0
+n@_opt
+OL;O;2021.1;73
+R0
+vALUControl
+Z2 !s110 1779818820
+!i10b 1
+!s100 jc7RizDFW9:j]_58zXLNO0
+IaUkRAz4QW7m0boSNNmM=T0
+Z3 dF:/Studying/College/College-content/FPGA/projects/Learning Verilog/MIPS_Pipeline_project/RTL
+Z4 w1721439110
+8F:/Studying/College/College-content/FPGA/projects/Learning Verilog/MIPS_Pipeline_project/RTL/ALUControl.v
+FF:/Studying/College/College-content/FPGA/projects/Learning Verilog/MIPS_Pipeline_project/RTL/ALUControl.v
+!i122 24
+L0 15 57
+Z5 VDg1SIo80bB@j0V0VzS_@n1
+Z6 OL;L;2021.1;73
+r1
+!s85 0
+31
+Z7 !s108 1779818820.000000
+!s107 F:/Studying/College/College-content/FPGA/projects/Learning Verilog/MIPS_Pipeline_project/RTL/ALUControl.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|F:/Studying/College/College-content/FPGA/projects/Learning Verilog/MIPS_Pipeline_project/RTL/ALUControl.v|
+!i113 0
+Z8 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R1
+n@a@l@u@control
+vBranchTargetAddress
+R2
+!i10b 1
+!s100 5a2`S3kKmGh9`NTdOVcfG2
+I?_zZc3LaEAdN`KLD3Wma=0
+R3
+R4
+8F:/Studying/College/College-content/FPGA/projects/Learning Verilog/MIPS_Pipeline_project/RTL/BranchTargetAddress.v
+FF:/Studying/College/College-content/FPGA/projects/Learning Verilog/MIPS_Pipeline_project/RTL/BranchTargetAddress.v
+!i122 25
+Z9 L0 1 6
+R5
+R6
+r1
+!s85 0
+31
+R7
+!s107 F:/Studying/College/College-content/FPGA/projects/Learning Verilog/MIPS_Pipeline_project/RTL/BranchTargetAddress.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|F:/Studying/College/College-content/FPGA/projects/Learning Verilog/MIPS_Pipeline_project/RTL/BranchTargetAddress.v|
+!i113 0
+R8
+R1
+n@branch@target@address
+vController
+R2
+!i10b 1
+!s100 eYdGf1z7E:CeHGd?Mk9m_1
+IXA;hR6:A>>YfZ1A2N8>4I1
+R3
+R4
+8F:/Studying/College/College-content/FPGA/projects/Learning Verilog/MIPS_Pipeline_project/RTL/Controller.v
+FF:/Studying/College/College-content/FPGA/projects/Learning Verilog/MIPS_Pipeline_project/RTL/Controller.v
+!i122 26
+L0 1 88
+R5
+R6
+r1
+!s85 0
+31
+R7
+!s107 F:/Studying/College/College-content/FPGA/projects/Learning Verilog/MIPS_Pipeline_project/RTL/Controller.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|F:/Studying/College/College-content/FPGA/projects/Learning Verilog/MIPS_Pipeline_project/RTL/Controller.v|
+!i113 0
+R8
+R1
+n@controller
+vControlUnit
+R2
+!i10b 1
+!s100 MoM6]Z6bFIhBbRhjWn[;g3
+IlgbINUajT;LdU?Y1:Pm9M1
+R3
+R4
+8F:/Studying/College/College-content/FPGA/projects/Learning Verilog/MIPS_Pipeline_project/RTL/ControlUnit.v
+FF:/Studying/College/College-content/FPGA/projects/Learning Verilog/MIPS_Pipeline_project/RTL/ControlUnit.v
+!i122 27
+L0 1 94
+R5
+R6
+r1
+!s85 0
+31
+R7
+!s107 F:/Studying/College/College-content/FPGA/projects/Learning Verilog/MIPS_Pipeline_project/RTL/ControlUnit.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|F:/Studying/College/College-content/FPGA/projects/Learning Verilog/MIPS_Pipeline_project/RTL/ControlUnit.v|
+!i113 0
+R8
+R1
+n@control@unit
+vDataMemory
+R2
+!i10b 1
+!s100 ]=XZC12e`bRH726;XCb;@3
+I2N=hKS2]CLJa<Y??CTN@D3
+R3
+w1779660874
+8F:/Studying/College/College-content/FPGA/projects/Learning Verilog/MIPS_Pipeline_project/RTL/Datamemory.v
+FF:/Studying/College/College-content/FPGA/projects/Learning Verilog/MIPS_Pipeline_project/RTL/Datamemory.v
+!i122 28
+Z10 L0 1 21
+R5
+R6
+r1
+!s85 0
+31
+R7
+!s107 F:/Studying/College/College-content/FPGA/projects/Learning Verilog/MIPS_Pipeline_project/RTL/Datamemory.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|F:/Studying/College/College-content/FPGA/projects/Learning Verilog/MIPS_Pipeline_project/RTL/Datamemory.v|
+!i113 0
+R8
+R1
+n@data@memory
+vDataPath
+R2
+!i10b 1
+!s100 VhI;0]Lz^K^3nc29gBJTz2
+IAg;nShaXk8YKTmoC`C[ja3
+R3
+R4
+8F:/Studying/College/College-content/FPGA/projects/Learning Verilog/MIPS_Pipeline_project/RTL/DataPath.v
+FF:/Studying/College/College-content/FPGA/projects/Learning Verilog/MIPS_Pipeline_project/RTL/DataPath.v
+!i122 29
+L0 1 351
+R5
+R6
+r1
+!s85 0
+31
+R7
+!s107 F:/Studying/College/College-content/FPGA/projects/Learning Verilog/MIPS_Pipeline_project/RTL/DataPath.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|F:/Studying/College/College-content/FPGA/projects/Learning Verilog/MIPS_Pipeline_project/RTL/DataPath.v|
+!i113 0
+R8
+R1
+n@data@path
+vEX_MEM_REG
+R2
+!i10b 1
+!s100 Ea3micA98U3hmaBPd2GZA0
+IZb<oVcLDC^04kbS5[=]c_1
+R3
+R4
+8F:/Studying/College/College-content/FPGA/projects/Learning Verilog/MIPS_Pipeline_project/RTL/EX_MEM_REG.v
+FF:/Studying/College/College-content/FPGA/projects/Learning Verilog/MIPS_Pipeline_project/RTL/EX_MEM_REG.v
+!i122 30
+L0 1 48
+R5
+R6
+r1
+!s85 0
+31
+R7
+!s107 F:/Studying/College/College-content/FPGA/projects/Learning Verilog/MIPS_Pipeline_project/RTL/EX_MEM_REG.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|F:/Studying/College/College-content/FPGA/projects/Learning Verilog/MIPS_Pipeline_project/RTL/EX_MEM_REG.v|
+!i113 0
+R8
+R1
+n@e@x_@m@e@m_@r@e@g
+vForwardingUnit
+R2
+!i10b 1
+!s100 _jho[Dzn9gk;a9bLZkKCV1
+IJN>ESHC``ZKe:STD`ZY[[2
+R3
+w1779748907
+8F:/Studying/College/College-content/FPGA/projects/Learning Verilog/MIPS_Pipeline_project/RTL/ForwardingUnit.v
+FF:/Studying/College/College-content/FPGA/projects/Learning Verilog/MIPS_Pipeline_project/RTL/ForwardingUnit.v
+!i122 31
+L0 1 46
+R5
+R6
+r1
+!s85 0
+31
+R7
+!s107 F:/Studying/College/College-content/FPGA/projects/Learning Verilog/MIPS_Pipeline_project/RTL/ForwardingUnit.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|F:/Studying/College/College-content/FPGA/projects/Learning Verilog/MIPS_Pipeline_project/RTL/ForwardingUnit.v|
+!i113 0
+R8
+R1
+n@forwarding@unit
+vHazardDetectionUnit
+Z11 !s110 1779818821
+!i10b 1
+!s100 W:5]?So4dG6RJ7TX<jNO20
+Iz=:KUNTSWj3GiAc1@HL7X3
+R3
+w1779748902
+8F:/Studying/College/College-content/FPGA/projects/Learning Verilog/MIPS_Pipeline_project/RTL/HazardDetectionUnit.v
+FF:/Studying/College/College-content/FPGA/projects/Learning Verilog/MIPS_Pipeline_project/RTL/HazardDetectionUnit.v
+!i122 32
+L0 1 22
+R5
+R6
+r1
+!s85 0
+31
+R7
+!s107 F:/Studying/College/College-content/FPGA/projects/Learning Verilog/MIPS_Pipeline_project/RTL/HazardDetectionUnit.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|F:/Studying/College/College-content/FPGA/projects/Learning Verilog/MIPS_Pipeline_project/RTL/HazardDetectionUnit.v|
+!i113 0
+R8
+R1
+n@hazard@detection@unit
+vID_EX_REG
+R11
+!i10b 1
+!s100 OE6nAOFh[47;;R@U6>i6h1
+IR<P4m6JjU8bMjHVS0B2f23
+R3
+R4
+8F:/Studying/College/College-content/FPGA/projects/Learning Verilog/MIPS_Pipeline_project/RTL/ID_EX_REG.v
+FF:/Studying/College/College-content/FPGA/projects/Learning Verilog/MIPS_Pipeline_project/RTL/ID_EX_REG.v
+!i122 33
+L0 1 68
+R5
+R6
+r1
+!s85 0
+31
+Z12 !s108 1779818821.000000
+!s107 F:/Studying/College/College-content/FPGA/projects/Learning Verilog/MIPS_Pipeline_project/RTL/ID_EX_REG.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|F:/Studying/College/College-content/FPGA/projects/Learning Verilog/MIPS_Pipeline_project/RTL/ID_EX_REG.v|
+!i113 0
+R8
+R1
+n@i@d_@e@x_@r@e@g
+vIF_ID_REG
+R11
+!i10b 1
+!s100 lXI;K;CW3hfCOV>Y:Q@=W3
+ILgFJK<:6^GQ;z1M376cEl2
+R3
+R4
+8F:/Studying/College/College-content/FPGA/projects/Learning Verilog/MIPS_Pipeline_project/RTL/IF_ID_REG.v
+FF:/Studying/College/College-content/FPGA/projects/Learning Verilog/MIPS_Pipeline_project/RTL/IF_ID_REG.v
+!i122 34
+R10
+R5
+R6
+r1
+!s85 0
+31
+R12
+!s107 F:/Studying/College/College-content/FPGA/projects/Learning Verilog/MIPS_Pipeline_project/RTL/IF_ID_REG.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|F:/Studying/College/College-content/FPGA/projects/Learning Verilog/MIPS_Pipeline_project/RTL/IF_ID_REG.v|
+!i113 0
+R8
+R1
+n@i@f_@i@d_@r@e@g
+vInstructionMemory
+R11
+!i10b 1
+!s100 4m?oofXd@NXNdBCN]8zZ=1
+I^8faHNK06A8E]8[L1zg_]1
+R3
+R4
+8F:/Studying/College/College-content/FPGA/projects/Learning Verilog/MIPS_Pipeline_project/RTL/InstructionMemory.v
+FF:/Studying/College/College-content/FPGA/projects/Learning Verilog/MIPS_Pipeline_project/RTL/InstructionMemory.v
+!i122 35
+L0 1 8
+R5
+R6
+r1
+!s85 0
+31
+R12
+!s107 F:/Studying/College/College-content/FPGA/projects/Learning Verilog/MIPS_Pipeline_project/RTL/InstructionMemory.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|F:/Studying/College/College-content/FPGA/projects/Learning Verilog/MIPS_Pipeline_project/RTL/InstructionMemory.v|
+!i113 0
+R8
+R1
+n@instruction@memory
+vIsEqual
+R11
+!i10b 1
+!s100 _90jG@XZlAFoLbD0O?E4@2
+IdmI@^X[elWYS8KC>;1]iN2
+R3
+R4
+8F:/Studying/College/College-content/FPGA/projects/Learning Verilog/MIPS_Pipeline_project/RTL/IsEqual.v
+FF:/Studying/College/College-content/FPGA/projects/Learning Verilog/MIPS_Pipeline_project/RTL/IsEqual.v
+!i122 36
+R9
+R5
+R6
+r1
+!s85 0
+31
+R12
+!s107 F:/Studying/College/College-content/FPGA/projects/Learning Verilog/MIPS_Pipeline_project/RTL/IsEqual.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|F:/Studying/College/College-content/FPGA/projects/Learning Verilog/MIPS_Pipeline_project/RTL/IsEqual.v|
+!i113 0
+R8
+R1
+n@is@equal
+vMainALU
+R11
+!i10b 1
+!s100 efJc=eCT_HnkJ71U4857?3
+IVcCA<@M3mZ:mZ^J:h3_L?3
+R3
+R4
+8F:/Studying/College/College-content/FPGA/projects/Learning Verilog/MIPS_Pipeline_project/RTL/MainALU.v
+FF:/Studying/College/College-content/FPGA/projects/Learning Verilog/MIPS_Pipeline_project/RTL/MainALU.v
+!i122 37
+L0 1 62
+R5
+R6
+r1
+!s85 0
+31
+R12
+!s107 F:/Studying/College/College-content/FPGA/projects/Learning Verilog/MIPS_Pipeline_project/RTL/MainALU.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|F:/Studying/College/College-content/FPGA/projects/Learning Verilog/MIPS_Pipeline_project/RTL/MainALU.v|
+!i113 0
+R8
+R1
+n@main@a@l@u
+vMEM_WB_REG
+R11
+!i10b 1
+!s100 zW7cS8kh4>g]KXjcJADS81
+IEngSBcB0n3BOXK?ef3<Tk2
+R3
+R4
+8F:/Studying/College/College-content/FPGA/projects/Learning Verilog/MIPS_Pipeline_project/RTL/MEM_WB_REG.v
+FF:/Studying/College/College-content/FPGA/projects/Learning Verilog/MIPS_Pipeline_project/RTL/MEM_WB_REG.v
+!i122 38
+L0 1 34
+R5
+R6
+r1
+!s85 0
+31
+R12
+!s107 F:/Studying/College/College-content/FPGA/projects/Learning Verilog/MIPS_Pipeline_project/RTL/MEM_WB_REG.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|F:/Studying/College/College-content/FPGA/projects/Learning Verilog/MIPS_Pipeline_project/RTL/MEM_WB_REG.v|
+!i113 0
+R8
+R1
+n@m@e@m_@w@b_@r@e@g
+vmuxNbit_2_1
+R11
+!i10b 1
+!s100 Y_8^9jRU2gM>50B5G3[Z[1
+I=@:3gTENa?RCU6CP^aM_W0
+R3
+R4
+8F:/Studying/College/College-content/FPGA/projects/Learning Verilog/MIPS_Pipeline_project/RTL/muxNbit_2_1.v
+FF:/Studying/College/College-content/FPGA/projects/Learning Verilog/MIPS_Pipeline_project/RTL/muxNbit_2_1.v
+!i122 39
+L0 1 19
+R5
+R6
+r1
+!s85 0
+31
+R12
+!s107 F:/Studying/College/College-content/FPGA/projects/Learning Verilog/MIPS_Pipeline_project/RTL/muxNbit_2_1.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|F:/Studying/College/College-content/FPGA/projects/Learning Verilog/MIPS_Pipeline_project/RTL/muxNbit_2_1.v|
+!i113 0
+R8
+R1
+nmux@nbit_2_1
+vmuxNbit_3_1
+R11
+!i10b 1
+!s100 b90FA4hDO0LCXGYm8lo`W1
+IBoEGTz9bGDOnKZze?5Dh^3
+R3
+R4
+8F:/Studying/College/College-content/FPGA/projects/Learning Verilog/MIPS_Pipeline_project/RTL/muxNbit_3_1.v
+FF:/Studying/College/College-content/FPGA/projects/Learning Verilog/MIPS_Pipeline_project/RTL/muxNbit_3_1.v
+!i122 40
+R10
+R5
+R6
+r1
+!s85 0
+31
+R12
+!s107 F:/Studying/College/College-content/FPGA/projects/Learning Verilog/MIPS_Pipeline_project/RTL/muxNbit_3_1.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|F:/Studying/College/College-content/FPGA/projects/Learning Verilog/MIPS_Pipeline_project/RTL/muxNbit_3_1.v|
+!i113 0
+R8
+R1
+nmux@nbit_3_1
+vPCadder
+R11
+!i10b 1
+!s100 fbHQ=k]>HAd6jKl21nMKh0
+IVRFD0S2AUOJd=Km0REXZK1
+R3
+R4
+8F:/Studying/College/College-content/FPGA/projects/Learning Verilog/MIPS_Pipeline_project/RTL/PCadder.v
+FF:/Studying/College/College-content/FPGA/projects/Learning Verilog/MIPS_Pipeline_project/RTL/PCadder.v
+!i122 41
+R9
+R5
+R6
+r1
+!s85 0
+31
+R12
+!s107 F:/Studying/College/College-content/FPGA/projects/Learning Verilog/MIPS_Pipeline_project/RTL/PCadder.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|F:/Studying/College/College-content/FPGA/projects/Learning Verilog/MIPS_Pipeline_project/RTL/PCadder.v|
+!i113 0
+R8
+R1
+n@p@cadder
+vProcessor
+R11
+!i10b 1
+!s100 n12_im^BL`MHJ01^z[;jd3
+IN5Gh5:McD9`k^W95NnNLn1
+R3
+w1779660980
+8F:/Studying/College/College-content/FPGA/projects/Learning Verilog/MIPS_Pipeline_project/RTL/Processor.v
+FF:/Studying/College/College-content/FPGA/projects/Learning Verilog/MIPS_Pipeline_project/RTL/Processor.v
+!i122 42
+L0 1 129
+R5
+R6
+r1
+!s85 0
+31
+R12
+!s107 F:/Studying/College/College-content/FPGA/projects/Learning Verilog/MIPS_Pipeline_project/RTL/Processor.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|F:/Studying/College/College-content/FPGA/projects/Learning Verilog/MIPS_Pipeline_project/RTL/Processor.v|
+!i113 0
+R8
+R1
+n@processor
+vProgramCounter
+R11
+!i10b 1
+!s100 =aICSnim1OAfjnjLc4J]X1
+Ibl>Md0hOG^Iae8[z3h3ML2
+R3
+R4
+8F:/Studying/College/College-content/FPGA/projects/Learning Verilog/MIPS_Pipeline_project/RTL/ProgramCounter.v
+FF:/Studying/College/College-content/FPGA/projects/Learning Verilog/MIPS_Pipeline_project/RTL/ProgramCounter.v
+!i122 43
+L0 1 16
+R5
+R6
+r1
+!s85 0
+31
+R12
+!s107 F:/Studying/College/College-content/FPGA/projects/Learning Verilog/MIPS_Pipeline_project/RTL/ProgramCounter.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|F:/Studying/College/College-content/FPGA/projects/Learning Verilog/MIPS_Pipeline_project/RTL/ProgramCounter.v|
+!i113 0
+R8
+R1
+n@program@counter
+vRegisterFile
+R11
+!i10b 1
+!s100 Q?540zJ0RFFDGlLgToCmk0
+I81z=>>LoI3T@79V[HU5d?1
+R3
+R4
+8F:/Studying/College/College-content/FPGA/projects/Learning Verilog/MIPS_Pipeline_project/RTL/RegistersFile.v
+FF:/Studying/College/College-content/FPGA/projects/Learning Verilog/MIPS_Pipeline_project/RTL/RegistersFile.v
+!i122 44
+L0 1 20
+R5
+R6
+r1
+!s85 0
+31
+R12
+!s107 F:/Studying/College/College-content/FPGA/projects/Learning Verilog/MIPS_Pipeline_project/RTL/RegistersFile.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|F:/Studying/College/College-content/FPGA/projects/Learning Verilog/MIPS_Pipeline_project/RTL/RegistersFile.v|
+!i113 0
+R8
+R1
+n@register@file
+vSignExtend
+R11
+!i10b 1
+!s100 j:h]>XdX7FjmzP]jnL1P^3
+I0HR]j;?Ra_?NHDTa6PVP@0
+R3
+R4
+8F:/Studying/College/College-content/FPGA/projects/Learning Verilog/MIPS_Pipeline_project/RTL/SignExtend.v
+FF:/Studying/College/College-content/FPGA/projects/Learning Verilog/MIPS_Pipeline_project/RTL/SignExtend.v
+!i122 45
+L0 1 7
+R5
+R6
+r1
+!s85 0
+31
+R12
+!s107 F:/Studying/College/College-content/FPGA/projects/Learning Verilog/MIPS_Pipeline_project/RTL/SignExtend.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|F:/Studying/College/College-content/FPGA/projects/Learning Verilog/MIPS_Pipeline_project/RTL/SignExtend.v|
+!i113 0
+R8
+R1
+n@sign@extend
+vtestbench
+DXx6 sv_std 3 std 0 22 9oUSJO;AeEaW`l:M@^WG92
+!s110 1779818822
+!i10b 1
+!s100 WR4NT?QnL[IaZSRN@cSaU3
+II]Q13f[WJYkjD3z6mP<Ic1
+S1
+R3
+w1779661066
+8F:/Studying/College/College-content/FPGA/projects/Learning Verilog/MIPS_Pipeline_project/RTL/testbench.sv
+FF:/Studying/College/College-content/FPGA/projects/Learning Verilog/MIPS_Pipeline_project/RTL/testbench.sv
+!i122 47
+L0 1 43
+R5
+R6
+r1
+!s85 0
+31
+!s108 1779818822.000000
+!s107 F:/Studying/College/College-content/FPGA/projects/Learning Verilog/MIPS_Pipeline_project/RTL/testbench.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|F:/Studying/College/College-content/FPGA/projects/Learning Verilog/MIPS_Pipeline_project/RTL/testbench.sv|
+!i113 0
+o-work work -sv -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R1

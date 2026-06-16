@@ -1,0 +1,169 @@
+{F:/Studying/College/College-content/FPGA/projects/Learning Verilog/MIPS_Pipeline_project/RTL/ForwardingUnit.v} {1 {vlog -work work -vopt -stats=none {F:/Studying/College/College-content/FPGA/projects/Learning Verilog/MIPS_Pipeline_project/RTL/ForwardingUnit.v}
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module ForwardingUnit
+
+Top level modules:
+	ForwardingUnit
+
+} {} {}} {F:/Studying/College/College-content/FPGA/projects/Learning Verilog/MIPS_Pipeline_project/RTL/InstructionMemory.v} {1 {vlog -work work -vopt -stats=none {F:/Studying/College/College-content/FPGA/projects/Learning Verilog/MIPS_Pipeline_project/RTL/InstructionMemory.v}
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module InstructionMemory
+
+Top level modules:
+	InstructionMemory
+
+} {} {}} {F:/Studying/College/College-content/FPGA/projects/Learning Verilog/MIPS_Pipeline_project/RTL/MEM_WB_REG.v} {1 {vlog -work work -vopt -stats=none {F:/Studying/College/College-content/FPGA/projects/Learning Verilog/MIPS_Pipeline_project/RTL/MEM_WB_REG.v}
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module MEM_WB_REG
+
+Top level modules:
+	MEM_WB_REG
+
+} {} {}} {F:/Studying/College/College-content/FPGA/projects/Learning Verilog/MIPS_Pipeline_project/RTL/IsEqual.v} {1 {vlog -work work -vopt -stats=none {F:/Studying/College/College-content/FPGA/projects/Learning Verilog/MIPS_Pipeline_project/RTL/IsEqual.v}
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module IsEqual
+
+Top level modules:
+	IsEqual
+
+} {} {}} {F:/Studying/College/College-content/FPGA/projects/Learning Verilog/MIPS_Pipeline_project/RTL/ID_EX_REG.v} {1 {vlog -work work -vopt -stats=none {F:/Studying/College/College-content/FPGA/projects/Learning Verilog/MIPS_Pipeline_project/RTL/ID_EX_REG.v}
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module ID_EX_REG
+
+Top level modules:
+	ID_EX_REG
+
+} {} {}} {F:/Studying/College/College-content/FPGA/projects/Learning Verilog/MIPS_Pipeline_project/RTL/MainALU.v} {1 {vlog -work work -vopt -stats=none {F:/Studying/College/College-content/FPGA/projects/Learning Verilog/MIPS_Pipeline_project/RTL/MainALU.v}
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module MainALU
+
+Top level modules:
+	MainALU
+
+} {} {}} {F:/Studying/College/College-content/FPGA/projects/Learning Verilog/MIPS_Pipeline_project/RTL/EX_MEM_REG.v} {1 {vlog -work work -vopt -stats=none {F:/Studying/College/College-content/FPGA/projects/Learning Verilog/MIPS_Pipeline_project/RTL/EX_MEM_REG.v}
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module EX_MEM_REG
+
+Top level modules:
+	EX_MEM_REG
+
+} {} {}} {F:/Studying/College/College-content/FPGA/projects/Learning Verilog/MIPS_Pipeline_project/RTL/IF_ID_REG.v} {1 {vlog -work work -vopt -stats=none {F:/Studying/College/College-content/FPGA/projects/Learning Verilog/MIPS_Pipeline_project/RTL/IF_ID_REG.v}
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module IF_ID_REG
+
+Top level modules:
+	IF_ID_REG
+
+} {} {}} {F:/Studying/College/College-content/FPGA/projects/Learning Verilog/MIPS_Pipeline_project/RTL/SignExtend.v} {1 {vlog -work work -vopt -stats=none {F:/Studying/College/College-content/FPGA/projects/Learning Verilog/MIPS_Pipeline_project/RTL/SignExtend.v}
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module SignExtend
+
+Top level modules:
+	SignExtend
+
+} {} {}} {F:/Studying/College/College-content/FPGA/projects/Learning Verilog/MIPS_Pipeline_project/RTL/ControlUnit.v} {1 {vlog -work work -vopt -stats=none {F:/Studying/College/College-content/FPGA/projects/Learning Verilog/MIPS_Pipeline_project/RTL/ControlUnit.v}
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module ControlUnit
+
+Top level modules:
+	ControlUnit
+
+} {} {}} {F:/Studying/College/College-content/FPGA/projects/Learning Verilog/MIPS_Pipeline_project/RTL/HazardDetectionUnit.v} {1 {vlog -work work -vopt -stats=none {F:/Studying/College/College-content/FPGA/projects/Learning Verilog/MIPS_Pipeline_project/RTL/HazardDetectionUnit.v}
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module HazardDetectionUnit
+
+Top level modules:
+	HazardDetectionUnit
+
+} {} {}} {F:/Studying/College/College-content/FPGA/projects/Learning Verilog/MIPS_Pipeline_project/RTL/Datamemory.v} {1 {vlog -work work -vopt -stats=none {F:/Studying/College/College-content/FPGA/projects/Learning Verilog/MIPS_Pipeline_project/RTL/Datamemory.v}
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module DataMemory
+
+Top level modules:
+	DataMemory
+
+} {} {}} {F:/Studying/College/College-content/FPGA/projects/Learning Verilog/MIPS_Pipeline_project/RTL/BranchTargetAddress.v} {1 {vlog -work work -vopt -stats=none {F:/Studying/College/College-content/FPGA/projects/Learning Verilog/MIPS_Pipeline_project/RTL/BranchTargetAddress.v}
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module BranchTargetAddress
+
+Top level modules:
+	BranchTargetAddress
+
+} {} {}} {F:/Studying/College/College-content/FPGA/projects/Learning Verilog/MIPS_Pipeline_project/RTL/ALUControl.v} {1 {vlog -work work -vopt -stats=none {F:/Studying/College/College-content/FPGA/projects/Learning Verilog/MIPS_Pipeline_project/RTL/ALUControl.v}
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module ALUControl
+
+Top level modules:
+	ALUControl
+
+} {} {}} {F:/Studying/College/College-content/FPGA/projects/Learning Verilog/MIPS_Pipeline_project/RTL/PCadder.v} {1 {vlog -work work -vopt -stats=none {F:/Studying/College/College-content/FPGA/projects/Learning Verilog/MIPS_Pipeline_project/RTL/PCadder.v}
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module PCadder
+
+Top level modules:
+	PCadder
+
+} {} {}} {F:/Studying/College/College-content/FPGA/projects/Learning Verilog/MIPS_Pipeline_project/RTL/testbench.sv} {1 {vlog -work work -vopt -sv -stats=none {F:/Studying/College/College-content/FPGA/projects/Learning Verilog/MIPS_Pipeline_project/RTL/testbench.sv}
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module testbench
+
+Top level modules:
+	testbench
+
+} {} {}} {F:/Studying/College/College-content/FPGA/projects/Learning Verilog/MIPS_Pipeline_project/RTL/Controller.v} {1 {vlog -work work -vopt -stats=none {F:/Studying/College/College-content/FPGA/projects/Learning Verilog/MIPS_Pipeline_project/RTL/Controller.v}
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module Controller
+
+Top level modules:
+	Controller
+
+} {} {}} {F:/Studying/College/College-content/FPGA/projects/Learning Verilog/MIPS_Pipeline_project/RTL/DataPath.v} {1 {vlog -work work -vopt -stats=none {F:/Studying/College/College-content/FPGA/projects/Learning Verilog/MIPS_Pipeline_project/RTL/DataPath.v}
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module DataPath
+
+Top level modules:
+	DataPath
+
+} {} {}} {F:/Studying/College/College-content/FPGA/projects/Learning Verilog/MIPS_Pipeline_project/RTL/tb_Exception.sv} {1 {vlog -work work -vopt -sv -stats=none {F:/Studying/College/College-content/FPGA/projects/Learning Verilog/MIPS_Pipeline_project/RTL/tb_Exception.sv}
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module testbench
+
+Top level modules:
+	testbench
+
+} {} {}} {F:/Studying/College/College-content/FPGA/projects/Learning Verilog/MIPS_Pipeline_project/RTL/muxNbit_2_1.v} {1 {vlog -work work -vopt -stats=none {F:/Studying/College/College-content/FPGA/projects/Learning Verilog/MIPS_Pipeline_project/RTL/muxNbit_2_1.v}
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module muxNbit_2_1
+
+Top level modules:
+	muxNbit_2_1
+
+} {} {}} {F:/Studying/College/College-content/FPGA/projects/Learning Verilog/MIPS_Pipeline_project/RTL/Processor.v} {1 {vlog -work work -vopt -stats=none {F:/Studying/College/College-content/FPGA/projects/Learning Verilog/MIPS_Pipeline_project/RTL/Processor.v}
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module Processor
+
+Top level modules:
+	Processor
+
+} {} {}} {F:/Studying/College/College-content/FPGA/projects/Learning Verilog/MIPS_Pipeline_project/RTL/ProgramCounter.v} {1 {vlog -work work -vopt -stats=none {F:/Studying/College/College-content/FPGA/projects/Learning Verilog/MIPS_Pipeline_project/RTL/ProgramCounter.v}
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module ProgramCounter
+
+Top level modules:
+	ProgramCounter
+
+} {} {}} {F:/Studying/College/College-content/FPGA/projects/Learning Verilog/MIPS_Pipeline_project/RTL/RegistersFile.v} {1 {vlog -work work -vopt -stats=none {F:/Studying/College/College-content/FPGA/projects/Learning Verilog/MIPS_Pipeline_project/RTL/RegistersFile.v}
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module RegisterFile
+
+Top level modules:
+	RegisterFile
+
+} {} {}} {F:/Studying/College/College-content/FPGA/projects/Learning Verilog/MIPS_Pipeline_project/RTL/muxNbit_3_1.v} {1 {vlog -work work -vopt -stats=none {F:/Studying/College/College-content/FPGA/projects/Learning Verilog/MIPS_Pipeline_project/RTL/muxNbit_3_1.v}
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module muxNbit_3_1
+
+Top level modules:
+	muxNbit_3_1
+
+} {} {}}
